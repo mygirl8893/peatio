@@ -10,7 +10,7 @@ gem 'redis-rails'
 gem 'rotp'
 gem 'json'
 gem 'jbuilder'
-gem 'bcrypt-ruby', '~> 3.1.2'
+gem 'bcrypt-ruby', '~> 3.1.10'
 
 gem 'doorkeeper', '~> 1.4.1'
 gem 'omniauth', '~> 1.2.1'
